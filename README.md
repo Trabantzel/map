@@ -1,2 +1,7 @@
 # map
-i wanna build a site with a map in Google with directions and routes for some delivery trucks
+I wanna build a site were i can make some directions and routes for some delivery trucks with google maps API 
+
+totally new.
+
+Stefan
+
